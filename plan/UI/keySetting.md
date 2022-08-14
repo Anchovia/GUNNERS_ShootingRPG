@@ -1,16 +1,16 @@
-# 단축키 정리표
+# hotkeys table
 
-  | 이름 | 변수명 | 키 |
+  | Name | Variable Name | Hotkey |
   | :---: | :---: | :---: |
-  | 위 이동 | ui_up | W |
-  | 아래 이동 | ui_left | S |
-  | 오른쪽 이동 | ui_down | D |
-  | 왼쪽 이동 | ui_right | A |
-  | 아이템창 | 미정 | TAP |
-  | 스킬 1 | 미정 | Q |
-  | 스킬 2 | 미정 | E |
-  | 무기 1 | 미정 | 1 |
-  | 무기 2 | 미정 | 2 |
-  | 무기 3 | 미정 | 3 |
-  | 무기 4 | 미정 | 4 |
-  | 구르기 | 미정 | SPACE |
+  | move up| ui_up | W |
+  | move left| ui_left | S |
+  | move down | ui_down | D |
+  | move right | ui_right | A |
+  | inventory |  | TAP |
+  | skill 1 |  | Q |
+  | skill 2 |  | E |
+  | weapon 1|  | 1 |
+  | weapon 2 |  | 2 |
+  | weapon 3 |  | 3 |
+  | weapon 4 |  | 4 |
+  | sliding | | SPACE |
